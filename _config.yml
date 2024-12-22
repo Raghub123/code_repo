@@ -12,7 +12,7 @@ author:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman  # You can change this to any other Jekyll theme
+theme: jekyll-theme-minimal  # You can change this to any other Jekyll theme
 plugins:
   - jekyll-feed  # This plugin generates an RSS feed for your website
   - jekyll-seo-tag  # This plugin adds SEO-friendly meta tags to your site
