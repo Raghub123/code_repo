@@ -2,7 +2,7 @@
 title: "Raghav Krishnakumar Sowmyanarayanan"
 description: "A portfolio to showcase my projects and skills."
 url: "https://raghub123.github.io"  # Replace with your GitHub Pages URL
-baseurl: "/docs"  # Use this if your GitHub Pages is hosted in a subdirectory like /docs
+baseurl: ""  
 
 # Author info
 author:
